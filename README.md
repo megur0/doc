@@ -70,6 +70,8 @@ permalink: /
 
 * [ネットワーク](./network/README.md)
 
+* [RDB](./rdb/README.md)
+
 * [Claude](./claude/README.md)
 
 * [セキュリティ](./security/README.md)
@@ -77,6 +79,8 @@ permalink: /
 * [AdMob](./google_admob/google_admob.md)
 
 * [draw.io](./drawio/drawio.md)
+
+* [Steam](./steam/steam.md)
 
 * 表記などについて
     * [クラス図の表記](./common/about_class_diagram.md)
