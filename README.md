@@ -68,6 +68,8 @@ permalink: /
 
 * [AWS](./aws/README.md)
 
+* [Google Cloud](./gcp/README.md)
+
 * [ネットワーク](./network/README.md)
 
 * [RDB](./rdb/README.md)
