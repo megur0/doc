@@ -64,6 +64,8 @@ permalink: /
 
 * [Git](./git/README.md)
 
+* [Linux](./linux/README.md)
+
 * [Docker](./docker/README.md)
 
 * [AWS](./aws/README.md)
